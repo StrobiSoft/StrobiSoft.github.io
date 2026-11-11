@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "product": "familymail",
+  "platform": "windows",
+  "channel": "stable",
+  "status": "pending_first_signed_release",
+  "version": null,
+  "url": null,
+  "sha256": null
+}
